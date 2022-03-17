@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Chronos.Blazor.Cropper" Version="1.1.8" />
+    <PackageReference Include="Chronos.Blazor.Cropper" Version="1.2.1" />
   </ItemGroup>
 
 </Project>
